@@ -92,7 +92,7 @@ return (
         <S.Input
         type="tel"
         name="tel"
-        placeholder="tel"
+        placeholder="Contato (tel)"
         value={formData.tel}
         onChange={handleChange}
         required

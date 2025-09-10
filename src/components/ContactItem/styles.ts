@@ -1,7 +1,8 @@
 import styled from "styled-components";
 
 export const ItemContainer = styled.div`
-background-color: white;
+background-color: black;
+color: #fff;
 padding: 20px;
 border-radius: 8px;
 margin-bottom: 10px;
@@ -17,12 +18,10 @@ flex: 1;
 
 export const ContactName = styled.h3`
 margin: 0 0 10px 0;
-color: #333;
 `;
 
 export const ContactDetail = styled.p`
 margin: 5px 0;
-color: #666;
 font-size: 14px;
 `;
 
